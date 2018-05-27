@@ -5,6 +5,12 @@
 1）大数据安全靶场，一个仿高德地图的demo，其中点击左侧列表的靶标名称，对应的地图上的靶标就会移动到屏幕中间，并放大。
 2）点击靶标，会在屏幕右侧以动画的效果出现靶标的详细信息（用vuex）实现
 3）该项目实现了屏幕的自适应（flex,vuex）
+
+## display
+![Image text](https://github.com/yanglujie/bigDatamap/raw/master/static/img/ditu1.jpg)
+
+![Image text](https://github.com/yanglujie/bigDatamap/raw/master/static/img/ditu2.jpg)
+
 ## Build Setup
 
 ``` bash
